@@ -1,5 +1,6 @@
 # devops-aula05
 
 StarWars Episódio I
-StarWars Episódio II
+StarWars Episódio IV
 StarWars Episódio III
+MERCENÁRIOS 3
